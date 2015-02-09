@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'Sample Documentation Site'
+subtitle: 'Jekyll Docs Template makes this easy'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -15,7 +15,7 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
+codeurl: 'https://github.com/tpdorsey/sample-docs-project'
 
 # Default categories (in order) to appear in the navigation
 sections: [
@@ -28,7 +28,7 @@ sections: [
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: ''
+baseurl: '/sample-docs-project'
 
 # Dates are not included in permalinks
 permalink: none
