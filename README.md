@@ -1,3 +1,5 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bruth/jekyll-docs-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Sample Documentation Project for Visual Studio Magazine
 
-Read the docs: http://bruth.github.io/jekyll-docs-template
+Read the article: TK
+
+Read Jekyll Docs Template docs: http://bruth.github.io/jekyll-docs-template
