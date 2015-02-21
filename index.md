@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sample Documentation Site"
+title: "Sample Documentation Project"
 ---
 
 ### Get Started
